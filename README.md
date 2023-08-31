@@ -1,11 +1,11 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  # <social-network>
+  # <Jate Text-Editor>
 
   ## Description
 
-  This project is designed to help users share their thoughts, rect to friends's thoughts, and create a friend list
+  My project gives users a flexible and functional text Editor to use
 
   ## Table of contents
 
@@ -20,15 +20,15 @@
 
   ## Installation
   
-  Install my project at my Github page
+  Install my project at my github page
 
   ## Usage
 
-  After running npm run seed&npm start, try manipulating the data stored using insomania routes(whether you want to see, add, delete a particular thought, user, friend, reaction....)
+  Run npm i, npm run build, and npm run start:dev to start the application
 
   ## Contributing
 
-  None
+  none
 
   ## License
 
@@ -36,7 +36,7 @@
 
   ## Tests
 
-  one
+  none
 
   ## Questions
   
